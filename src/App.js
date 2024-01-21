@@ -1,15 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
    <>
    <div className="blank">
-    <h1>
-
+   <nav>
+    <li>Home</li>
+    <li>About</li>
+    <li>Contact</li>
+    <p>This is first project </p>
+   </nav>
 
       
-    </h1>
+    
 
    </div>
    </>
